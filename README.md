@@ -1,4 +1,4 @@
-# Hi there, I'm Irfan 👋
+# Hi there, I'm Irfan Ahamed S 👋
 
 I'm a passionate software developer with a keen interest in web development, open-source contributions, and continuous learning. I love to explore new technologies and implement them in my projects.
 
