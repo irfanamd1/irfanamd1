@@ -24,6 +24,7 @@ I'm a passionate software developer with a keen interest in web development, ope
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/irfan-ahamed-s-945615246)
+- [Portfolio](https://irfanahameds.vercel.app)
 - [GitHub](https://github.com/irfanamd1)
 
 <!--
