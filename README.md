@@ -6,14 +6,12 @@ I'm a passionate software developer with a keen interest in web development, ope
 
 - 🔭 I’m currently working on improving my skills in full-stack development.
 - 🌱 I’m currently learning advanced JavaScript and React.
-- 👯 I’m looking to collaborate on open-source projects and innovative web applications.
-- 💬 Ask me about web development, JavaScript, and coding best practices.
 - 📫 How to reach me: [irfanamd14@gmail.com](mailto:irfanamd14@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
 - **Languages**: JavaScript
-- **Frontend**: React, HTML, CSS,  Bootstrap, TailwindCSS, MaterialUI
+- **Frontend**: React, HTML, CSS, TailwindCSS, MaterialUI
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL
 - **Others**: Git, REST APIs
